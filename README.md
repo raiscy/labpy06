@@ -99,6 +99,8 @@ PENJELASAN :
 7. Menghapus data berfungsi untuk menghapus data mahasiswa dari daftar dan memberi tau pengguna bahwa data berhasil ke hapus
 8. Mengubah data berfungsi untuk mengubah data mahasiswa yang lama dengan yang baru dengan memasukkan nama, nim dan nilai
 
+FLOWCHART 
+![WhatsApp Image 2024-11-28 at 13 11 59_6e24f5cd](https://github.com/user-attachments/assets/98dc336c-30e7-4485-b133-0c1b353e3c59)
 
 # Latihan 1 
 
